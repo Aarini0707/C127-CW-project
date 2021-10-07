@@ -18,3 +18,11 @@ function preload(){
 function play(){
     song.play();
 }
+
+function pause(){
+    song.pause();
+}
+
+function stop(){
+    song.stop();
+}
